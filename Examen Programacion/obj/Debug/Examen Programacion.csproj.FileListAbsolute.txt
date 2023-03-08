@@ -1,0 +1,8 @@
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\obj\Debug\Examen Programacion.csproj.AssemblyReference.cache
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\obj\Debug\Examen Programacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\obj\Debug\Examen Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\bin\Debug\Examen Programacion.exe.config
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\bin\Debug\Examen Programacion.exe
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\bin\Debug\Examen Programacion.pdb
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\obj\Debug\Examen Programacion.exe
+C:\Users\Covar\Documents\Visual Studio Proyects(DON'T DELETE)\Examen Programacion\Examen Programacion\obj\Debug\Examen Programacion.pdb
